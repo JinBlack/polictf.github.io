@@ -1,0 +1,9 @@
+http://0.0.0.0:80/index.html
+http://0.0.0.0:80/reg_ko.html
+http://0.0.0.0:80/reg_ok.html
+http://0.0.0.0:80/registration.html
+http://0.0.0.0:80/rules.html
+http://0.0.0.0:80/scoreboard/challenges.html
+http://0.0.0.0:80/scoreboard/level2.html
+http://0.0.0.0:80/scoreboard/login.html
+http://0.0.0.0:80/scoreboard/ranking.html
